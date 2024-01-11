@@ -1,0 +1,29 @@
+﻿  Clipdrogen.cpp
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(204,16): warning C4566: символ, представленный универсальным именем символа "\u00EB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(386,28): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(386,20): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(387,30): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(387,22): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(388,29): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(388,21): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(394,30): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(394,22): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(395,29): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(395,21): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(548,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(861,24): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(861,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(861,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(861,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(867,25): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(867,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(867,25): warning C4129: C: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Clipdrogen\Clipdrogen.cpp(198): warning C4715: Hue: значение возвращается не при всех путях выполнения
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Clipdrogen.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Clipdrogen\Release\Clipdrogen.exe

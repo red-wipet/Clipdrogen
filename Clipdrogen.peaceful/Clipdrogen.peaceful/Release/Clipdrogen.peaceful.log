@@ -1,0 +1,24 @@
+﻿  Clipdrogen.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(328,28): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(328,20): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(329,30): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(329,22): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(330,29): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(330,21): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(336,30): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(336,22): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(337,29): warning C4305: =: усечение из "int" в "COLOR16"
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(337,21): warning C4309: =: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(490,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(803,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(803,24): warning C4129: B: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(809,25): warning C4129: N: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Clipdrogen.peaceful\Clipdrogen.peaceful.cpp(198): warning C4715: Hue: значение возвращается не при всех путях выполнения
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Clipdrogen.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Clipdrogen.peaceful\Release\Clipdrogen.peaceful.exe
